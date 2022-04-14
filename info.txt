@@ -1,0 +1,10 @@
+// ** SERVER **
+1. Despues del main en el package.json ponemos 
+    "type": "module"
+2. Dentro del server instalamos
+    npm install cors express mysql2 sequelize
+
+// ** CLIENT **
+1. Instalamos 
+    npm install axios react-router-dom boostrap
+2.
